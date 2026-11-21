@@ -1,0 +1,16 @@
+.project
+*.zip
+*.bt2
+*.bt2l
+*.dSYM
+*.pyc
+*.swp
+.run.pl.child.*
+.simple_tests*
+.idea
+Xcode
+reads_*.fq
+reads_*.sam
+ncbi-vdb-*
+ngs-*
+cmake-build-*
